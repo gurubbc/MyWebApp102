@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> Current Time</h1>
+<h1> Current Time Today</h1>
 <%= new java.util.Date() %>
 </body>
 </html>
